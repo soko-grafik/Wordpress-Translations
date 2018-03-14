@@ -1,0 +1,156 @@
+# Copyright (C) 2016 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Documents 1.6.0\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-03-14 16:19+0000\n"
+"Last-Translator: nightcode <steven@nightcode.net>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/admin/class-wc-product-documents-admin.php:112 
+#: includes/admin/class-wc-product-documents-admin.php:124 
+#: includes/admin/class-wc-product-documents-admin.php:185
+msgid "Product Documents"
+msgstr "Produktdokumente"
+
+#: includes/admin/class-wc-product-documents-admin.php:120
+msgid "Product Documents Default Title"
+msgstr "Produktdokumente Standardtitel"
+
+#: includes/admin/class-wc-product-documents-admin.php:121
+msgid ""
+"This text will be shown above the product documents section unless "
+"overridden at the product level."
+msgstr ""
+"Dieser Text wird oberhalb des Produktdokumentabschnitts angezeigt, sofern er "
+"nicht auf Produktebene überschrieben wird."
+
+#: includes/admin/class-wc-product-documents-admin.php:165
+msgid "Are you sure you want to remove this section?"
+msgstr ""
+"Möchten Sie diesen Abschnitt wirklich entfernen?\n"
+
+#: includes/admin/class-wc-product-documents-admin.php:166
+msgid "Are you sure you want to remove this document?"
+msgstr "Möchten Sie dieses Dokument wirklich entfernen?"
+
+#: includes/admin/class-wc-product-documents-admin.php:167
+msgid "Select a File"
+msgstr "Wählen Sie eine Datei"
+
+#: includes/admin/class-wc-product-documents-admin.php:168 
+#: includes/admin/class-wc-product-documents-admin.php:345
+msgid "Set File"
+msgstr "Datei einstellen"
+
+#: includes/admin/class-wc-product-documents-admin.php:208
+msgid "Product Documents Title"
+msgstr "Produktdokumente Titel"
+
+#: includes/admin/class-wc-product-documents-admin.php:209
+msgid ""
+"This text optional will be shown as the title for the product documents "
+"element."
+msgstr ""
+"Dieser optionale Text wird als Titel für das Produktdokumentelement "
+"angezeigt."
+
+#: includes/admin/class-wc-product-documents-admin.php:218
+msgid "Show Product Documents"
+msgstr "Zeige Produktdokumente"
+
+#: includes/admin/class-wc-product-documents-admin.php:219
+msgid ""
+"Enable this to automatically display any documents for this product on the "
+"product page.  Product documents can also be displayed anywhere via the "
+"widget or shortcode."
+msgstr ""
+"Aktivieren Sie diese Option, um automatisch Dokumente für dieses Produkt auf "
+"der Produktseite anzuzeigen. Produktdokumente können auch überall über das "
+"Widget oder den Shortcode angezeigt werden."
+
+#: includes/admin/class-wc-product-documents-admin.php:228
+msgid "Close all"
+msgstr ""
+"Alle schließen\n"
+
+#: includes/admin/class-wc-product-documents-admin.php:229
+msgid "Expand all"
+msgstr "Alle erweitern"
+
+#: includes/admin/class-wc-product-documents-admin.php:244
+msgid "New Section"
+msgstr "Neuer Abschnitt"
+
+#: includes/admin/class-wc-product-documents-admin.php:269 
+#: includes/admin/class-wc-product-documents-admin.php:346
+msgid "Remove"
+msgstr "Löschen"
+
+#: includes/admin/class-wc-product-documents-admin.php:270
+msgid "Click to toggle"
+msgstr "Klicken Sie, um umzuschalten"
+
+#: includes/admin/class-wc-product-documents-admin.php:271
+msgid "Name"
+msgstr ""
+
+#: includes/admin/class-wc-product-documents-admin.php:272
+msgid "Default"
+msgstr "Standard"
+
+#: includes/admin/class-wc-product-documents-admin.php:284
+msgid "Label"
+msgstr "Beschriftung"
+
+#: includes/admin/class-wc-product-documents-admin.php:285
+msgid "Document Path/URL"
+msgstr "Dokumentpfad / URL"
+
+#: includes/admin/class-wc-product-documents-admin.php:286
+msgid "Actions"
+msgstr "Aktionen"
+
+#: includes/admin/class-wc-product-documents-admin.php:302
+msgid "Add Document"
+msgstr "Dokument hinzufügen"
+
+#: includes/widgets/class-wc-product-documents-widget-documents.php:41
+msgid ""
+"Display a set of product documents for the current product if on a product "
+"page."
+msgstr ""
+"Zeigte auf einer Produktseite eine Reihe von Produktdokumenten für das "
+"aktuelle Produkt an.\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Product Documents"
+msgstr "WooCommerce Produktdokumente"
+
+#: includes/widgets/class-wc-product-documents-widget-documents.php:121
+msgid "Title"
+msgstr "Titel"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/woocommerce-product-documents/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a product documents element to WooCommerce product pages"
+msgstr "Fügt den WooCommerce-Produktseiten ein Produktdokument hinzu"
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr ""
